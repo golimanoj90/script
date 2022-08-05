@@ -1,0 +1,28 @@
+HDFS Backup and Disaster Recovery using Cloudera BDR
+Hive Backup and Disaster Recovery - Cloudera Backup and Disaster Recovery
+HDFS Snapshot Management
+Handling missing and corrupted block issues
+setting quota for directries
+setting replication for hdfs
+cluster planning 
+admin day to day operations
+Adding nodes, services, roles
+removing nodes, roles
+decommission & recommisioning
+upgradation cloudera , cdh
+upgradation Ambari, hdp 
+creating Database tables in Hive & manipulating data
+importing data into hdfs or hbase by sqoop service
+kafka,kerberos,spark,hdfs,sqoop,hive,impala,hbase,ranger,zookeeper,oozie,airflow
+ansible,scripting
+linux,centos redhat
+cdp installation
+planning multi cluster 
+prerequisites for cluster
+linux administration
+crontab
+amazon aws s3 ec2
+High Availability  for hdfs hive yarn
+migration hdp to cdp
+upgradation cm 5or 6 to cdp
+loading data from Local to HDFS , LOCAL to HIVE , HDFS to HIVE
