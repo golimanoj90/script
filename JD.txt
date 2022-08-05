@@ -1,0 +1,33 @@
+In the meantime here's the details on the role:
+
+Title: Hadoop DBA
+Location: Remote
+Duration: 6 months +
+IR35 status: Outside
+***************************************************************************************************************
+
+This project will see you working with The Workshop (a betting/gaming company)
+
+https://theworkshop.com/en/london/
+*************************************************************************************************************
+The Role:
+Design, deploy and support highly available and scalable Hadoop Solutions for high data volumes
+Monitor and maintain system capacity within the Hadoop clusters
+Provide support for Hadoop clusters from development through to production
+Provide out of hours production support as part of an on-call rota.
+Ensure performance, security, and availability of mission critical data
+Handle common database procedures such as upgrade, backup, recovery, migration, deployment etc.
+Prepare crystal clear documentation and specifications, including database design, coding & security standards, best practices, standard operating procedures and training materials
+Work closely with colleagues in Database Services and application development teams, and with business stakeholders.
+Cross train peers in Hadoop administration.
+Keep Cloudera Data Platform software up to date in-line with vendor recommendations.
+Migrate Data from Non Hadoop systems into the Hadoop cluster
+Please let me know your thoughts so far on this and if you are keen please send me over your latest version of your CV
+
+Cheers
+
+Vic
+
+--
+Vic Williams
+Talent Acquisition Team Lead
